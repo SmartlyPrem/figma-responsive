@@ -1,0 +1,10 @@
+.new-cls{
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: .4s;
+}
+.news-2{
+    display: block;
+    opacity: 0;
+    transition: .4s;
+}
